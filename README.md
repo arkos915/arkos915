@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Nothing to see here yet. Learning the ropes.
+
 <!--
 **arkos915/arkos915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
